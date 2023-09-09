@@ -1,0 +1,2 @@
+# Mhau-Motd
+Mordhau MOTD
