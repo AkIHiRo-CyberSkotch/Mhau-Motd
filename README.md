@@ -8,6 +8,7 @@
 &lt;a id="Свод правил перечисленные в Дискорд сервере">https://discord.gg/3zxQZJNKf5&lt;/>
 &lt;a id="Сам Дискорд сервер">https://discord.gg/3zxQZJNKf5&lt;/>
 &lt;a id="Hyperlink example - Mordhau Discord">https://discord.gg/mordhau&lt;/>
+
  - RTV (Голосование на смену карты) 
    - ╰Отключено на неопределенный срок
  - Стандартные игровые режимы, миксы, босс файт и зомби выживание
